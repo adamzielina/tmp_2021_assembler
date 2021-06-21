@@ -8,3 +8,7 @@ sprzęt:
 IDE:
 
 - microchip studio
+
+projekt:
+
+- stoper
