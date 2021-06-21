@@ -1,4 +1,4 @@
-# zadania z mikrokontrolerow
+# zadania z mikrokontrolerow w assemblerze
 
 sprzęt:
 
